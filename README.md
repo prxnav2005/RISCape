@@ -2,8 +2,6 @@
 
 A 5-stage pipelined RISC-V processor implementing the RV32I base ISA.
 
----
-
 ## Overview
 
 RISCape is a fully pipelined RISC-V CPU designed with five stages: **Fetch**, **Decode**, **Execute**, **Memory**, and **Writeback**. It supports:
